@@ -1,0 +1,6 @@
+site_name = "ST·U News"
+author_name = "dev@shantou.university"
+about = """
+some news about ShanTou University.
+"""
+blogroll_feeds = ""

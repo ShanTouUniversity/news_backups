@@ -2,5 +2,7 @@ site_name = "ST·U News"
 author_name = "STU News"
 about = """
 some news about ShanTou University.
+
+本站支持 RSS 订阅：[https://news.shantou.university/feed.xml](https://news.shantou.university/feed.xml)
 """
 blogroll_feeds = ""

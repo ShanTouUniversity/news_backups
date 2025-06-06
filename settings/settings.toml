@@ -3,6 +3,10 @@ author_name = "STU News"
 about = """
 some news about ShanTou University.
 
+<p style="color:red">NOTE：UNOFFICIAL!</p>
+
 本站支持 RSS 订阅：[https://news.shantou.university/feed.xml](https://news.shantou.university/feed.xml)
+
+Maintained by: dev@ShanTou.University
 """
 blogroll_feeds = ""
